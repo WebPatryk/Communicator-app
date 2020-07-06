@@ -3,7 +3,7 @@
 #### In the begining I would like to emphasize that it's a not finished project. So be patient I'm working on it all of the time :)  
 
 
-  Link: [Communicator-link](https://communicator-7ce4c.firebaseapp.com/)
+  Link: [Communicator-link](https://communicator-7ce4c.web.app/)
 
 ## Describtion
 
