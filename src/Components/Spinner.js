@@ -1,12 +1,10 @@
 import React from 'react';
-import { Dimmer, Loader, Segment } from 'semantic-ui-react';
+import { Dimmer, Loader } from 'semantic-ui-react';
 
 export default function Spinner() {
-    return (
-
-        <Dimmer active>
-            <Loader size="huge">Loading...</Loader>
-        </Dimmer>
-
-    );
+	return (
+		<Dimmer active>
+			<Loader size="huge">Loading...</Loader>
+		</Dimmer>
+	);
 }

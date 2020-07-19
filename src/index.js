@@ -9,18 +9,15 @@ import { Provider } from 'react-redux';
 import './Components/style/app.css';
 const store = createStore(rootReducers, window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__());
 
-
 ReactDOM.render(
-  <Provider store={store}>
-    <Router>
-      <React.StrictMode>
-        <App />
-      </React.StrictMode>
-    </Router>
-  </Provider>
-  ,
-  document.getElementById('root')
+	<Provider store={store}>
+		<Router>
+			<React.StrictMode>
+				<App />
+			</React.StrictMode>
+		</Router>
+	</Provider>,
+	document.getElementById('root')
 );
-
 
 serviceWorker.unregister();
