@@ -3,7 +3,7 @@
 #### In the begining I would like to emphasize that it's a not finished project. So be patient I'm working on it all of the time :)  
 
 
-  Link: [Communicator-link](https://communicator-react-app.web.app/login)
+  Link: [Communicator-link](https://communicator-react-app.web.app)
 
 ## Describtion
 
